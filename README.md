@@ -23,8 +23,8 @@ This project demonstrates a complete supply chain analytics workflow — from ra
   - Null values and incorrect formats
   - Standardized delivery statuses and shipment labels
   - Converted date fields and created new metrics (e.g. delivery time)
-- Loaded the cleaned datasets into SQL Server
-- Created new columns like,tracking_status,lead_time,shipping_time
+  - Created new columns like,tracking_status,lead_time,shipping_time
+  - Loaded the cleaned datasets into SQL Server
 
 ### 🔹 Step 2: SQL-Based Business Analysis
 
