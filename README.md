@@ -52,8 +52,7 @@ Performed end-to-end supply chain performance analysis using SQL, including:
 - Peak order days by weekday
 - Average delivery time by shipment carrier and ship mode
 
- 👉 Refer to `supply_chain_1.sql`(./supply_chain_1.sql) and `supply_chain_insights.sql`(./supply_chain_insights.sql) for full SQL logic.
-
+👉 Refer to [`supply_chain_1.sql`](./supply_chain_1.sql) and [`supply_chain_insights.sql`](./supply_chain_insights.sql) for full SQL logic.
 
 ### 🔹 Step 3: Dashboarding in Power bi
 
