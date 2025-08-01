@@ -25,6 +25,8 @@ This project demonstrates a complete supply chain analytics workflow — from ra
   - Converted date fields and created new metrics (e.g. delivery time)
   - Created new columns like,tracking_status,lead_time,shipping_time
   - Loaded the cleaned datasets into SQL Server
+ 
+ 📄 File: [`supply_chain_analysis.ipynb`](./supply_chain_analysis.ipynb)
 
 ### 🔹 Step 2: SQL-Based Business Analysis
 
@@ -50,9 +52,8 @@ Performed end-to-end supply chain performance analysis using SQL, including:
 - Peak order days by weekday
 - Average delivery time by shipment carrier and ship mode
 
-> 👉 Refer to `supply_chain_1.sql` and `supply_chain_insights.sql` for full SQL logic.
+ 👉 Refer to `supply_chain_1.sql`(./supply_chain_1.sql) and `supply_chain_insights.sql`(./supply_chain_insights.sql) for full SQL logic.
 
----
 
 ### 🔹 Step 3: Dashboarding in Power bi
 
@@ -62,6 +63,9 @@ Built an interactive dashboard to visualize operational KPIs:
 - **Delivery Status Distribution by Carrier**
 - **Top Performing Products & Suppliers**
 - **Shipment Mode Usage by Supplier**
+
+![Power BI Report Screenshot 1](./supply_chain_summary.png)  
+![Power BI Report Screenshot 2](./supply_chain_overview.png)
 
 ## 🔍 Key Business Insights
 
