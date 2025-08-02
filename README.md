@@ -66,6 +66,12 @@ Built an interactive dashboard to visualize operational KPIs:
 ![Power BI Report Screenshot 1](./supply_chain_summary.png)  
 ![Power BI Report Screenshot 2](./supply_chain_overview.png)
 
+👉 ## 🔗 View Power BI Dashboard
+
+[Click here to view the interactive Power BI report]
+(https://app.powerbi.com/view?r=eyJrIjoiM2UxMDJhZjMtNWIzZC00NjQ0LTlkMjktMjkyZDliOTgwYjk0IiwidCI6ImE2MGJiMDAwLTgyODEtNGE5Zi04NmFmLTA0Yjc3OTg1MGQxNiJ9)
+
+
 ## 🔍 Key Business Insights
 
 - 📈 **Revenue peaked in June and November**, suggesting seasonal buying patterns.
